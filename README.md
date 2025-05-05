@@ -4,6 +4,11 @@ KULLANIMI :
 1) Bu zip dosyasını indirin
 2) Ayıklayın
 3) Setup.bat'ı açın
-4) Klasöre sağ tıklayıp terminal'de aç yap
-5) Terminale python main.py yaz ve entere bas
-6) Sonra devamını sen yaparsın
+4) Setup.bat'in işlemi bittikten sonra start_python_file.bat'i açın
+5) Program açıldıktan sonra devamını siz yapın.
+
+PROGRAM AÇILDIKTAN SONRA :
+1) Ne kadar kod oluşturmak istiyorsanız kaç tane oluşturucanızı ilgili alana girin.
+2) Kod oluştur butonuna tıklayın.
+3) Kaydet diyin
+4) Kaydettikten sonra klasörün içinde nitro_codes.txt (metin belgesi) oluşcak onu içindede kodlar olcak.
