@@ -5,7 +5,7 @@ KULLANIMI :
 2) Ayıklayın
 3) Setup.bat'ı açın
 4) Setup.bat'in işlemi bittikten sonra start_python_file.bat'i açın
-5) Program açıldıktan sonra devamını siz yapın.
+5) Program açıldıktan sonra devamını alttaki bilgi yerinden öğrenin :
 
 PROGRAM AÇILDIKTAN SONRA :
 1) Ne kadar kod oluşturmak istiyorsanız kaç tane oluşturucanızı ilgili alana girin.
