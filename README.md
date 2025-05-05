@@ -6,4 +6,4 @@ KULLANIMI :
 3) Setup.bat'ı açın
 4) Klasöre sağ tıklayıp terminal'de aç yap
 5) Terminale python main.py yaz ve entere bas
-6) Sonra devamını sen yap aq
+6) Sonra devamını sen yaparsın
